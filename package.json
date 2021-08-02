@@ -1,0 +1,22 @@
+{
+  "name": "challenge1-hub",
+  "version": "1.0.0",
+  "description": "Desafio 1 HubTech",
+  "main": "index.html",
+  "scripts": {
+    "style": "sass --watch sass/main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexgsalg/challenge1-hub.git"
+  },
+  "author": "HubTech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexgsalg/challenge1-hub/issues"
+  },
+  "homepage": "https://github.com/alexgsalg/challenge1-hub#readme",
+  "dependencies": {
+    "sass": "^1.37.0"
+  }
+}
